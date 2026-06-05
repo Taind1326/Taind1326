@@ -3,17 +3,28 @@
 <h3 align="center">Software Engineering Student | ASP.NET Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;ASP.NET+Developer;C%23+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;ASP.NET+Developer;C%23+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Second-year Software Engineering Student at HUIT
-- 💻 Passionate about Software Development and Backend Engineering
-- 🌱 Currently learning ASP.NET Core, WPF MVVM, SQL Server
-- 🚀 Goal: Become a Professional .NET Developer
+🎓 Second-year Software Engineering Student at Ho Chi Minh City University of Industry and Trade (HUIT)
+
+💻 Passionate about Software Development and Backend Engineering
+
+🌱 Currently Learning
+
+- ASP.NET Core
+- WPF MVVM
+- Entity Framework
+- SQL Server
+- Data Structures & Algorithms
+
+🎯 Career Goal
+
+Become a Professional .NET Developer and build scalable software solutions.
 
 ---
 
@@ -21,13 +32,13 @@
 
 ### Languages
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cs,python,js,html,css,c" />
 </p>
 
 ### Frameworks & Tools
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,mysql,git,github,vscode,visualstudio" />
 </p>
 
@@ -36,27 +47,31 @@
 ## 🚀 Featured Projects
 
 ### 🏪 Warehouse Management System
-Desktop application developed with C#.
+
+Desktop application developed using C# and SQL Server.
 
 ### 👕 Sportswear Store Management System
-Responsive website using HTML, CSS, JavaScript and Bootstrap 5.
+
+Responsive web application built with HTML, CSS, JavaScript and Bootstrap 5.
 
 ### 🌍 Tourism Management System
-Tourism management application built with Python.
+
+Python application for tourism destination management.
 
 ### 🧩 Sudoku Backtracking Algorithm
+
 Implementation of Sudoku Solver using Backtracking Algorithm in C#.
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taind1326&show_icons=true&theme=github_dark"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Taind1326&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326&layout=compact&theme=github_dark"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -64,22 +79,18 @@ Implementation of Sudoku Solver using Backtracking Algorithm in C#.
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taind1326&theme=github-dark-blue"/>
+  <img src="https://streak-stats.demolab.com?user=Taind1326&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📫 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taind1326&theme=github-compact" />
+  <a href="https://github.com/Taind1326">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/Taind1326
 
 ---
 
