@@ -94,7 +94,10 @@ Passionate about Backend Development, .NET Technologies and Building Real-World 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Taind1326&theme=tokyonight&row=1&column=6&no-frame=true"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Taind1326&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Taind1326&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 </div>
 
