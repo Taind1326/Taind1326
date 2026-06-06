@@ -1,99 +1,127 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Đại Tài</h1>
+# 💫 Hi there, I'm Nguyễn Đại Tài
 
-<h3 align="center">Software Engineering Student | ASP.NET Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;ASP.NET+Developer;C%23+Developer;Always+Learning+New+Things" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;ASP.NET+Developer;C%23+Enthusiast;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Second-year Software Engineering Student at Ho Chi Minh City University of Industry and Trade (HUIT)
+### 🚀 About Me
 
-💻 Passionate about Software Development and Backend Engineering
+🎓 Software Engineering Student at **HUIT**
 
-🌱 Currently Learning
+💻 Passionate about:
 
-- ASP.NET Core
-- WPF MVVM
-- Entity Framework
-- SQL Server
-- Data Structures & Algorithms
+* ASP.NET Core
+* Backend Development
+* Desktop Applications
+* Database Design
 
-🎯 Career Goal
+🌱 Currently Learning:
 
-Become a Professional .NET Developer and build scalable software solutions.
+* ASP.NET Core MVC
+* WPF MVVM
+* Entity Framework Core
+* SQL Server
+* Data Structures & Algorithms
+
+🎯 Goal:
+
+> Become a Professional .NET Developer and build impactful software products.
+
+<br>
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,python,js,html,css,c" />
-</p>
+### 💻 Languages
 
-### Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=cs,python,c,js,html,css" />
 
-<p align="center">
+### ⚡ Frameworks & Tools
+
 <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,mysql,git,github,vscode,visualstudio" />
-</p>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Analytics
 
-### 🏪 Warehouse Management System
+<div align="center">
 
-Desktop application developed using C# and SQL Server.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Taind1326&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 👕 Sportswear Store Management System
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Responsive web application built with HTML, CSS, JavaScript and Bootstrap 5.
-
-### 🌍 Tourism Management System
-
-Python application for tourism destination management.
-
-### 🧩 Sudoku Backtracking Algorithm
-
-Implementation of Sudoku Solver using Backtracking Algorithm in C#.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Taind1326&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Taind1326&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Taind1326&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/Taind1326">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Taind1326&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
-<p align="center">
-⭐ Keep Learning • Keep Building • Keep Growing
-</p>
+## 🚀 Featured Projects
+
+| Project                        | Description                               |
+| ------------------------------ | ----------------------------------------- |
+| 🏪 Warehouse Management System | Desktop application using C# & SQL Server |
+| 👕 Sportswear Store Management | Responsive Website with Bootstrap 5       |
+| 🌍 Tourism Management System   | Python-based management software          |
+| 🧩 Sudoku Solver               | Backtracking Algorithm Implementation     |
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taind1326&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Taind1326">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Keep Learning • Keep Building • Keep Growing ✨
+
+![](https://komarev.com/ghpvc/?username=Taind1326\&color=blueviolet\&style=for-the-badge)
+
+</div>
