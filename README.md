@@ -1,79 +1,47 @@
 <div align="center">
 
-# 🚀 Nguyễn Đại Tài
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,100:764ba2&text=Nguyễn%20Đại%20Tài&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-### Software Engineering Student | ASP.NET Developer
+<h2>💻 Software Engineering Student • ASP.NET Developer</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Github+Profile;ASP.NET+Developer;C%23+Developer;Backend+Engineering+Enthusiast;Always+Learning+New+Things" />
+<p>
+Passionate about Backend Development, .NET Technologies and Building Real-World Applications.
+</p>
 
-<br>
-
+<p>
 <a href="https://github.com/Taind1326">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://facebook.com/YOUR_FACEBOOK">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Taind1326&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```yaml
-Name: Nguyễn Đại Tài
-University: HUIT
-Major: Software Engineering
-
-Focus:
-  - ASP.NET Core
-  - C#
-  - SQL Server
-  - WPF MVVM
-
-Goal:
-  Become a Professional .NET Developer
-
-Currently Learning:
-  - Entity Framework Core
-  - Clean Architecture
-  - Design Patterns
-  - Data Structures & Algorithms
-```
+* 🎓 Software Engineering Student at HUIT
+* 💙 Love building applications with C# and ASP.NET
+* 🌱 Currently learning Clean Architecture & Entity Framework Core
+* 🎯 Goal: Become a Professional .NET Developer
+* 🚀 Always exploring new technologies and improving coding skills
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=cs,c,python,js,html,css"/>
-
-### 🚀 Frameworks & Technologies
-
-<img src="https://skillicons.dev/icons?i=dotnet,bootstrap"/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,mysql,git,github,vscode,visualstudio" />
 
 </div>
 
@@ -81,16 +49,12 @@ Currently Learning:
 
 # 🚀 Featured Projects
 
-<div align="center">
-
-| Project                 | Technology               | Description                    |
-| ----------------------- | ------------------------ | ------------------------------ |
-| 🏪 Warehouse Management | C#, SQL Server           | Desktop Management Application |
-| 👕 Sportswear Store     | HTML, CSS, JS, Bootstrap | Responsive E-Commerce Website  |
-| 🌍 Tourism Management   | Python                   | Tourism Destination Management |
-| 🧩 Sudoku Solver        | C#                       | Backtracking Algorithm         |
-
-</div>
+| Project                        | Technology                       | Description                                  |
+| ------------------------------ | -------------------------------- | -------------------------------------------- |
+| 🏪 Warehouse Management System | C#, SQL Server                   | Desktop application for warehouse management |
+| 👕 Sportswear Store Management | HTML, CSS, JavaScript, Bootstrap | Responsive web application                   |
+| 🌍 Tourism Management System   | Python                           | Tourism destination management software      |
+| 🧩 Sudoku Solver               | C#                               | Backtracking algorithm implementation        |
 
 ---
 
@@ -98,9 +62,9 @@ Currently Learning:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Taind1326&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Taind1326&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -130,17 +94,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Taind1326&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</div>
-
----
-
-# 🌟 Quote
-
-<div align="center">
-
-> "Success is the sum of small efforts repeated day in and day out."
+<img src="https://github-profile-trophy.vercel.app/?username=Taind1326&theme=tokyonight&row=1&column=6&no-frame=true"/>
 
 </div>
 
@@ -148,8 +102,8 @@ Currently Learning:
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
-
-⭐ Don't forget to star my repositories if you find them useful.
+### ✨ Keep Learning • Keep Building • Keep Growing ✨
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:667eea,100:764ba2"/>
