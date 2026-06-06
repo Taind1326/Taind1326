@@ -1,64 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,100:764ba2&text=Nguyễn%20Đại%20Tài&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0d1117,100:161b22&text=Nguyễn%20Đại%20Tài&fontColor=58a6ff&fontSize=42&animation=fadeIn&fontAlignY=50"/>
 
-<h2>💻 Software Engineering Student • ASP.NET Developer</h2>
+### Software Engineering Student • ASP.NET Developer
 
-<p>
-Passionate about Backend Development, .NET Technologies and Building Real-World Applications.
-</p>
+Building practical software solutions with C#, .NET and modern technologies.
 
-<p>
+<br>
+
 <a href="https://github.com/Taind1326">
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://facebook.com/YOUR_FACEBOOK">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
 
 </div>
 
 ---
 
-# 👋 About Me
+## 👨‍💻 About Me
 
-* 🎓 Software Engineering Student at HUIT
-* 💙 Love building applications with C# and ASP.NET
-* 🌱 Currently learning Clean Architecture & Entity Framework Core
-* 🎯 Goal: Become a Professional .NET Developer
-* 🚀 Always exploring new technologies and improving coding skills
+<table>
+<tr>
+<td width="50%">
+
+🎓 Software Engineering Student
+
+💻 ASP.NET Developer
+
+🚀 Backend Development Enthusiast
+
+🎯 Future .NET Developer
+
+</td>
+
+<td width="50%">
+
+🌱 ASP.NET Core
+
+🌱 Entity Framework Core
+
+🌱 WPF MVVM
+
+🌱 SQL Server
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,mysql,git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,mysql,git,github,vscode,visualstudio"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project                        | Technology                       | Description                                  |
-| ------------------------------ | -------------------------------- | -------------------------------------------- |
-| 🏪 Warehouse Management System | C#, SQL Server                   | Desktop application for warehouse management |
-| 👕 Sportswear Store Management | HTML, CSS, JavaScript, Bootstrap | Responsive web application                   |
-| 🌍 Tourism Management System   | Python                           | Tourism destination management software      |
-| 🧩 Sudoku Solver               | C#                               | Backtracking algorithm implementation        |
+| Project                        | Technology               | Description                              |
+| ------------------------------ | ------------------------ | ---------------------------------------- |
+| 🏪 Warehouse Management System | C#, SQL Server           | Desktop warehouse management application |
+| 👕 Sportswear Store Management | HTML, CSS, JS, Bootstrap | Responsive e-commerce website            |
+| 🌍 Tourism Management System   | Python                   | Tourism destination management software  |
+| 🧩 Sudoku Solver               | C#                       | Backtracking algorithm implementation    |
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -70,7 +89,7 @@ Passionate about Backend Development, .NET Technologies and Building Real-World 
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -80,7 +99,7 @@ Passionate about Backend Development, .NET Technologies and Building Real-World 
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -90,23 +109,12 @@ Passionate about Backend Development, .NET Technologies and Building Real-World 
 
 ---
 
-# 🏆 Achievements
+## 🌐 Connect With Me
 
 <div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Taind1326&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Taind1326&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+Software Engineering Student from Vietnam 🇻🇳
 
 </div>
 
----
-
-<div align="center">
-
-### ✨ Keep Learning • Keep Building • Keep Growing ✨
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:667eea,100:764ba2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&color=0:0d1117,100:161b22"/>
