@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0d1117,100:161b22&text=Nguyễn%20Đại%20Tài&fontColor=58a6ff&fontSize=42&animation=fadeIn&fontAlignY=50"/>
@@ -122,4 +121,3 @@ Software Engineering Student from Vietnam 🇻🇳
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&color=0:0d1117,100:161b22"/>
-```
