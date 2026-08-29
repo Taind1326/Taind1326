@@ -1,123 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0d1117,100:161b22&text=Nguyễn%20Đại%20Tài&fontColor=58a6ff&fontSize=42&animation=fadeIn&fontAlignY=50"/>
+Nguyễn Đại Tài
 
-### Software Engineering Student • ASP.NET Developer
+Software Engineering Student · .NET Developer
 
-Building practical software solutions with C#, .NET and modern technologies.
+I build practical applications with C#, ASP.NET Core,
+SQL Server, and modern web technologies.
 
-<br>
-
-<a href="https://github.com/Taind1326">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/share/1Ci2u2SYZ1/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="mailto:taind1326@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Taind1326&label=Profile%20Views&color=58a6ff&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Taind1326?label=Followers&style=for-the-badge&color=58a6ff"/>
+GitHub · Facebook · Email
 
 </div>
 
----
+About me
 
-## 👨‍💻 About Me
+Name       Nguyễn Đại Tài
+Education  Software Engineering Student at HUIT
+Focus      Backend Development and Software Architecture
+Goal       Become a professional .NET Developer
+Location   Ho Chi Minh City, Vietnam
 
-<table>
-<tr>
-<td width="50%">
+Currently learning ASP.NET Core and Entity Framework Core.
 
-🎓 Software Engineering Student  
-💻 ASP.NET Developer  
-🚀 Backend Development Enthusiast  
-🎯 Future .NET Developer  
+Building desktop applications with WPF and MVVM.
 
-</td>
-<td width="50%">
+Working with relational databases using SQL Server.
 
-🌱 ASP.NET Core  
-🌱 Entity Framework Core  
-🌱 WPF MVVM  
-🌱 SQL Server  
+Improving clean code, system design, and teamwork skills.
 
-</td>
-</tr>
-</table>
+Tech stack
 
----
+Area
 
-## 🎯 Current Focus
+Technologies
 
-- Building backend systems with **ASP.NET Core**
-- Working with **Entity Framework Core** and **SQL Server**
-- Developing desktop applications using **WPF MVVM**
-- Improving clean code and software architecture skills
+Languages
 
----
+C# JavaScript Python SQL
 
-## 🛠 Tech Stack
+Backend
+
+ASP.NET Core Entity Framework Core Node.js Express.js
+
+Frontend
+
+React HTML5 CSS3 Bootstrap WPF XAML
+
+Database
+
+SQL Server MySQL
+
+Tools
+
+Git GitHub Visual Studio VS Code Postman
+
+Featured projects
+
+Campus Book Exchange
+
+An online platform that helps HUIT students find, sell, donate, and exchange textbooks.
+
+React Node.js Express.js SQL Server Socket.IO
+
+Live website · Source code
+
+Warehouse Management System
+
+A desktop application for managing products, inventory, import and export activities.
+
+C# WPF MVVM SQL Server
+
+View repository
+
+Sportswear Store Management
+
+A responsive website for presenting and managing sportswear products.
+
+HTML CSS JavaScript Bootstrap
+
+View repository
+
+Tourism Management System
+
+A Python application for managing tourism destinations and related information.
+
+Python
+
+View repository
+
+Current goals
+
+Build maintainable backend systems with ASP.NET Core.
+
+Apply Entity Framework Core effectively in real projects.
+
+Strengthen database design and SQL optimization skills.
+
+Learn clean architecture and professional development workflows.
+
+Contact
+
+Feel free to connect with me to discuss software development, student projects, or collaboration opportunities.
+
+GitHub: github.com/Taind1326
+
+Email: taind1326@gmail.com
+
+Facebook: Nguyễn Đại Tài
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,bootstrap,mysql,git,github,vscode,visualstudio"/>
+Thanks for visiting my profile!
+
+Keep learning · Keep building · Keep improving
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Technology | Description | Repository |
-|---|---|---|---|
-| 🏪 Warehouse Management System | C#, SQL Server | Desktop warehouse management application | [View Project](https://github.com/Taind1326/Warehouse-Management-System) |
-| 👕 Sportswear Store Management | HTML, CSS, JS, Bootstrap | Responsive e-commerce website | [View Project](https://github.com/Taind1326/Sportswear-Store-Management-System) |
-| 🌍 Tourism Management System | Python | Tourism destination management software | [View Project](https://github.com/Taind1326/Tourism-Management-System) |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Taind1326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Taind1326&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Taind1326&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taind1326&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-Software Engineering Student from Vietnam 🇻🇳
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=80&section=footer&color=0:0d1117,100:161b22"/>
