@@ -4,9 +4,10 @@
 
 ### Software Engineering Student · .NET Developer
 
-C# · ASP.NET Core · SQL Server · WPF
+C# · .NET · SQL Server · WPF
 
-[GitHub](https://github.com/Taind1326) · [Email](mailto:taind1326@gmail.com)
+[GitHub](https://github.com/Taind1326) ·
+[Email](mailto:taind1326@gmail.com)
 
 </div>
 
@@ -14,7 +15,7 @@ C# · ASP.NET Core · SQL Server · WPF
 
 ## About Me
 
-Software Engineering student at **HUIT**, focused on backend development and .NET technologies.
+I'm a Software Engineering student at **HUIT**, interested in backend development and .NET technologies.
 
 - Building applications with **C# / .NET**
 - Working with **ASP.NET Core, Entity Framework & SQL Server**
@@ -47,17 +48,18 @@ Software Engineering student at **HUIT**, focused on backend development and .NE
 
 ### 📚 Campus Book Exchange
 
-A platform for HUIT students to **buy, sell, donate and exchange textbooks**.
+A platform for HUIT students to buy, sell, donate and exchange textbooks.
 
 `React` `Node.js` `Express.js` `SQL Server` `Socket.IO`
 
-[Live Demo](https://huit-book.vercel.app/) · [Frontend](https://github.com/Taind1326/Campus-Book-Exchange-Frontend)
+[Live Demo](https://huit-book.vercel.app/) ·
+[Frontend](https://github.com/Taind1326/Campus-Book-Exchange-Frontend)
 
 ---
 
 ### 📦 Warehouse Management System
 
-A desktop application for managing **products, inventory, warehouses, imports and exports**.
+A desktop application for managing products, inventory, warehouses, imports and exports.
 
 `C#` `WPF` `MVVM` `Entity Framework` `SQL Server`
 
@@ -75,14 +77,33 @@ A responsive sportswear website with product management and shopping features.
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Taind1326&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## Contribution
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Taind1326&hide_border=true" />
+
+</div>
+
+---
+
 ## Currently Learning
 
-- ASP.NET Core
-- Entity Framework Core
-- RESTful API
-- Database Design
-- Clean Architecture
-- Git & GitHub
+`ASP.NET Core` · `Entity Framework Core` · `RESTful API`
+
+`Database Design` · `Clean Architecture` · `Git & GitHub`
 
 ---
 
