@@ -4,101 +4,92 @@
 
 ### Software Engineering Student · .NET Developer
 
-I build practical applications with **C#**, **ASP.NET Core**,  
-**SQL Server**, and modern web technologies.
+C# · ASP.NET Core · SQL Server · WPF
 
-[GitHub](https://github.com/Taind1326) · [Facebook](https://www.facebook.com/share/1Ci2u2SYZ1/) · [Email](mailto:taind1326@gmail.com)
+[GitHub](https://github.com/Taind1326) · [Email](mailto:taind1326@gmail.com)
 
 </div>
 
 ---
 
-## About me
+## About Me
 
-```text
-Name       Nguyễn Đại Tài
-Education  Software Engineering Student at HUIT
-Focus      Backend Development and Software Architecture
-Goal       Become a professional .NET Developer
-Location   Ho Chi Minh City, Vietnam
-```
+Software Engineering student at **HUIT**, focused on backend development and .NET technologies.
 
-- Currently learning **ASP.NET Core** and **Entity Framework Core**.
-- Building desktop applications with **WPF and MVVM**.
-- Working with relational databases using **SQL Server**.
-- Improving clean code, system design, and teamwork skills.
+- Building applications with **C# / .NET**
+- Working with **ASP.NET Core, Entity Framework & SQL Server**
+- Developing desktop applications with **WPF & MVVM**
+- Learning software architecture and clean code
 
 ---
 
-## Tech stack
+## Tech Stack
 
-| Area | Technologies |
-|---|---|
-| Languages | `C#` `JavaScript` `Python` `SQL` |
-| Backend | `ASP.NET Core` `Entity Framework Core` `Node.js` `Express.js` |
-| Frontend | `React` `HTML5` `CSS3` `Bootstrap` `WPF` `XAML` |
-| Database | `SQL Server` `MySQL` |
-| Tools | `Git` `GitHub` `Visual Studio` `VS Code` `Postman` |
+**Languages**
+
+`C#` `JavaScript` `Python` `SQL`
+
+**Backend**
+
+`ASP.NET Core` `Entity Framework Core` `Node.js` `Express.js`
+
+**Frontend**
+
+`React` `HTML` `CSS` `Bootstrap` `WPF` `XAML`
+
+**Database & Tools**
+
+`SQL Server` `MySQL` `Git` `GitHub` `Visual Studio` `VS Code` `Postman`
 
 ---
 
-## Featured projects
+## Projects
 
-### Campus Book Exchange
+### 📚 Campus Book Exchange
 
-An online platform that helps HUIT students find, sell, donate, and exchange textbooks.
+A platform for HUIT students to **buy, sell, donate and exchange textbooks**.
 
 `React` `Node.js` `Express.js` `SQL Server` `Socket.IO`
 
-[Live website](https://huit-book.vercel.app/) · [Source code](https://github.com/Taind1326/Campus-Book-Exchange-Frontend)
+[Live Demo](https://huit-book.vercel.app/) · [Frontend](https://github.com/Taind1326/Campus-Book-Exchange-Frontend)
 
-### Warehouse Management System
+---
 
-A desktop application for managing products, inventory, import and export activities.
+### 📦 Warehouse Management System
 
-`C#` `WPF` `MVVM` `SQL Server`
+A desktop application for managing **products, inventory, warehouses, imports and exports**.
 
-[View repository](https://github.com/Taind1326/Warehouse-Management-System)
+`C#` `WPF` `MVVM` `Entity Framework` `SQL Server`
 
-### Sportswear Store Management
+[Repository](https://github.com/Taind1326/Warehouse-Management-System)
 
-A responsive website for presenting and managing sportswear products.
+---
+
+### 👕 Sportswear Store Management
+
+A responsive sportswear website with product management and shopping features.
 
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
-[View repository](https://github.com/Taind1326/Sportswear-Store-Management-System)
-
-### Tourism Management System
-
-A Python application for managing tourism destinations and related information.
-
-`Python`
-
-[View repository](https://github.com/Taind1326/Tourism-Management-System)
+[Repository](https://github.com/Taind1326/Sportswear-Store-Management-System)
 
 ---
 
-## Current goals
+## Currently Learning
 
-- Build maintainable backend systems with ASP.NET Core.
-- Apply Entity Framework Core effectively in real projects.
-- Strengthen database design and SQL optimization skills.
-- Learn clean architecture and professional development workflows.
+- ASP.NET Core
+- Entity Framework Core
+- RESTful API
+- Database Design
+- Clean Architecture
+- Git & GitHub
 
 ---
-
-## Contact
-
-Feel free to connect with me to discuss software development, student projects, or collaboration opportunities.
-
-- GitHub: [github.com/Taind1326](https://github.com/Taind1326)
-- Email: [taind1326@gmail.com](mailto:taind1326@gmail.com)
-- Facebook: [Nguyễn Đại Tài](https://www.facebook.com/share/1Ci2u2SYZ1/)
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### Thanks for visiting 👋
 
-`Keep learning · Keep building · Keep improving`
+**Keep learning · Keep building**
 
 </div>
