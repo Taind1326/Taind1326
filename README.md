@@ -2,7 +2,6 @@
 
 # Nguyễn Đại Tài
 
-### Software Engineering Student · .NET Developer
 
 C# · .NET · SQL Server · WPF
 
