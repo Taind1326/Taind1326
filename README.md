@@ -2,9 +2,9 @@
 
 # Nguyễn Đại Tài
 
-### Aspiring Backend Developer
+### 🚀 Aspiring Backend Developer
 
-Building reliable systems · Designing APIs · Working with data
+**Building reliable systems · Designing APIs · Working with data**
 
 
 \
@@ -19,7 +19,7 @@ Building reliable systems · Designing APIs · Working with data
 
 ## 👨‍💻 About Me
 
-\<table>
+\<table border="1" cellpadding="12" cellspacing="0">
 \<tr>
 \<td width="50%" valign="top">
 
@@ -27,18 +27,18 @@ Building reliable systems · Designing APIs · Working with data
 
 Software Engineering student at **Ho Chi Minh City University of Industry and Trade (HUIT)**.
 
-Aspiring Backend Developer interested in building practical applications and understanding how systems work behind the scenes.
+Aspiring Backend Developer interested in building practical applications, designing APIs and understanding how systems work behind the scenes.
 
 \</td> \<td width="50%" valign="top">
 
-### 🎯 What I Focus On
+### 🎯 My Interests
 
-- Backend Development
-- RESTful API Design
-- Database Design & Management
-- Authentication & Authorization
-- Software Architecture
-- System Performance & Reliability
+- ⚡ Backend Development
+- 🔌 RESTful API Design
+- 🗄️ Database Design & Management
+- 🔐 Authentication & Authorization
+- 🏗️ Software Architecture
+- 📈 System Performance & Reliability
 
 \</td> \</tr> \</table>
 
@@ -46,9 +46,7 @@ Aspiring Backend Developer interested in building practical applications and und
 
 ## 🧰 Tech Stack
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+\<table border="1" cellpadding="12" cellspacing="0"> \<tr> \<td width="50%" valign="top">
 
 ### 💻 Programming Languages
 
@@ -57,20 +55,17 @@ Aspiring Backend Developer interested in building practical applications and und
 \
 
 
-\</td>
-\<td width="50%" valign="top">
+\</td> \<td width="50%" valign="top">
 
 ### ⚙️ Backend Development
+
 
 
 
 \
 
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+\</td> \</tr> \<tr> \<td width="50%" valign="top">
 
 ### 🗄️ Databases
 
@@ -78,8 +73,7 @@ Aspiring Backend Developer interested in building practical applications and und
 \
 
 
-\</td>
-\<td width="50%" valign="top">
+\</td> \<td width="50%" valign="top">
 
 ### 🛠️ Tools & Others
 
@@ -89,49 +83,45 @@ Aspiring Backend Developer interested in building practical applications and und
 \
 
 
-\</td>
-\</tr>
-\<tr>
-\<td colspan="2" valign="top">
+\</td> \</tr> \<tr> \<td colspan="2" valign="top">
 
 ### 🌐 Frontend & Desktop
 
 
 
 
+
 \
 
 
-\</td>
-\</tr>
-\</table>
+\</td> \</tr> \</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-\<table> \<tr> \<td width="50%" valign="top">
+\<table border="1" cellpadding="12" cellspacing="0"> \<tr> \<td width="50%" valign="top">
 
 ### 📚 Campus Book Exchange
 
 A platform for HUIT students to **buy, sell, donate and exchange textbooks**.
 
-**Key areas:**
+**Key Features & Technologies**
+
+
+
+
+\
+
 
 - Backend API development
 - Database management
 - User authentication
 - Real-time communication
 
-
-
-
-\
-
-
 [🌐 **Live Demo →**](https://huit-book.vercel.app/)
 
-\<sub>Repository is private.\</sub>
+\<sub>🔒 Repository is private.\</sub>
 
 \</td>
 \<td width="50%" valign="top">
@@ -140,17 +130,18 @@ A platform for HUIT students to **buy, sell, donate and exchange textbooks**.
 
 A desktop application for managing **products, warehouses, inventory, imports and exports**.
 
-**Key areas:**
+**Key Features & Technologies**
 
-- Business logic implementation
-- Database operations
-- Entity Framework
-- MVVM architecture
 
 
 
 \
 
+
+- Business logic implementation
+- Database operations
+- Entity Framework
+- MVVM architecture
 
 [📂 **Repository →**](https://github.com/Taind1326/Warehouse-Management-System)
 
@@ -180,11 +171,11 @@ A responsive e-commerce website with product management and shopping features.
 
 \<div align="center">
 
-\<img src="[https://github-readme-stats.vercel.app/api?username=Taind1326&show_icons=true&hide_border=true&theme=transparent&title_color=38bdf8&text_color=94a3b8&icon_color=22d3ee](https://github-readme-stats.vercel.app/api?username=Taind1326\&show_icons=true\&hide_border=true\&theme=transparent\&title_color=38bdf8\&text_color=94a3b8\&icon_color=22d3ee)" height="165" alt="GitHub statistics" />
+\<img src="[https://github-readme-stats.vercel.app/api?username=Taind1326&show_icons=true&hide_border=true&theme=tokyonight&title_color=38BDF8&text_color=C9D1D9&icon_color=22D3EE](https://github-readme-stats.vercel.app/api?username=Taind1326\&show_icons=true\&hide_border=true\&theme=tokyonight\&title_color=38BDF8\&text_color=C9D1D9\&icon_color=22D3EE)" height="165" alt="GitHub statistics" />
 
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326&layout=compact&hide_border=true&theme=transparent&title_color=38bdf8&text_color=94a3b8](https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326\&layout=compact\&hide_border=true\&theme=transparent\&title_color=38bdf8\&text_color=94a3b8)" height="165" alt="Most used languages" />
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326&layout=compact&hide_border=true&theme=tokyonight&title_color=38BDF8&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326\&layout=compact\&hide_border=true\&theme=tokyonight\&title_color=38BDF8\&text_color=C9D1D9)" height="165" alt="Most used languages" />
 
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Taind1326&bg_color=00000000&color=94a3b8&line=38bdf8&point=22d3ee&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Taind1326\&bg_color=00000000\&color=94a3b8\&line=38bdf8\&point=22d3ee\&area=true\&hide_border=true)" width="95%" alt="GitHub activity graph" />
+\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=Taind1326&bg_color=1a1b27&color=C9D1D9&line=38BDF8&point=22D3EE&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Taind1326\&bg_color=1a1b27\&color=C9D1D9\&line=38BDF8\&point=22D3EE\&area=true\&hide_border=true)" width="95%" alt="GitHub activity graph" />
 
 \</div>
 
@@ -192,26 +183,26 @@ A responsive e-commerce website with product management and shopping features.
 
 ## 📖 Currently Learning
 
-\<table>
+\<table border="1" cellpadding="12" cellspacing="0">
 \<tr>
 \<td width="50%" valign="top">
 
-### 🌱 Backend Fundamentals
+### 🌱 Backend Development
 
-- RESTful API Design
-- Authentication & Authorization
-- Database Design
-- Entity Framework Core
+
+
+\
+
 
 \</td>
 \<td width="50%" valign="top">
 
-### 🧠 Software Design
+### 🧠 Software Engineering
 
-- Clean Architecture
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Software Design Principles
+
+
+\
+
 
 \</td>
 \</tr>
@@ -223,6 +214,6 @@ A responsive e-commerce website with product management and shopping features.
 
 ### 🚀 Building reliable backends, one project at a time.
 
-`Design` · `Develop` · `Test` · `Improve`
+`DESIGN` · `DEVELOP` · `TEST` · `IMPROVE`
 
 \</div>
