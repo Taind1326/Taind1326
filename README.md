@@ -212,18 +212,6 @@ A responsive e-commerce website with product management and shopping features.
 
 ---
 
-## 📊 GitHub Programming Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taind1326&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" width="420" alt="Programming languages"/>
-
-<br/>
-
-<sub>Programming language distribution based on public GitHub repositories.</sub>
-
-</div>
-
 ---
 
 ## 📈 GitHub Statistics
